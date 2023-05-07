@@ -1,0 +1,94 @@
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+}
+
+footer {
+	background-color: rgb(166, 42, 42);
+	color: #fff;
+	padding: 10px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td {
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+#cell1 {
+	background-color: #f00;
+}
+
+#cell2 {
+	background-color: #0f0;
+}
+
+#cell3 {
+	background-color: #00f;
+}
+
+#cell4 {
+	background-color: #ff0;
+}
+
+#cell5 {
+	background-color: #f80;
+}
+
+#cell6 {
+	background-color: #8f0;
+}
+
+#cell7 {
+	background-color: #08f;
+}
+
+#cell8 {
+	background-color: #f08;
+}
+
+#cell9 {
+	background-color: #0ff;
+}
+
+#cell10 {
+	background-color: #f0f;
+}
+
+#cell11 {
+	background-color: #ff8;
+}
+
+#cell12 {
+	background-color: #8ff;
+}
+
+#cell13 {
+	background-color: #888;
+	color: #fff;
+}
+
+#cell14 {
+	background-color: #fff;
+}
+
+#cell15 {
+	background-color: #000;
+	color: #fff;
+}
+
+#cell16 {
+	background-color: #ddd;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
