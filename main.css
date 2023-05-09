@@ -20,7 +20,50 @@ table {
 td {
 	padding: 10px;
 	border: 1px solid #ccc;
+	
+	#hond {
+  background-color: #006400;
+	
+	
 }
+	#haai {
+  background-color: #1E90FF;
+		
+	}
+	
+	#cheetah {
+  background-color: #FFFF00;
+}
+	
+tijger {
+  background-color: #FFA500;
+}
+	
+	#kat {
+  background-color: #FF69B4;
+}
+	
+	#giraffe {
+  background-color: #FFD700;
+}
+	
+	
+	#jaguar {
+  background-color: #FF8C00;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 #cell1 {
 	background-color: #f00;
