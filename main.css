@@ -1,137 +1,140 @@
 header {
-	background-color: #333;
-	color: #fff;
-	padding: 10px;
+	background-color: #4CAF50;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 36px;
 }
 
 footer {
-	background-color: rgb(166, 42, 42);
-	color: #fff;
+	background-color: #333;
+	color: white;
+	text-align: center;
 	padding: 10px;
-	position: absolute;
-	bottom: 0;
-	width: 100%;
+	font-size: 18px;
 }
 
 table {
 	border-collapse: collapse;
+	width: 80%;
+	margin: auto;
 }
 
 td {
+	border: 1px solid black;
 	padding: 10px;
-	border: 1px solid #ccc;
-	
-	#hond {
-  background-color: #006400;
-	
-	
-}
-	#haai {
-  background-color: #1E90FF;
-		
-	}
-	
-	#cheetah {
-  background-color: #FFFF00;
-}
-	
-tijger {
-  background-color: #FFA500;
-}
-	
-	#kat {
-  background-color: #FF69B4;
-}
-	
-	#giraffe {
-  background-color: #FFD700;
-}
-	
-	
-	#jaguar {
-  background-color: #FF8C00;
-}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-#cell1 {
-	background-color: #f00;
+	text-align: center;
 }
 
-#cell2 {
-	background-color: #0f0;
+#leeuw, #haai,  #cheetah, #jaguar {
+	background-color: #FFCCCC;
 }
 
-#cell3 {
-	background-color: #00f;
+#kat, {
+	background-color: #333;
+}
+ 
+
+
+#hond, {
+	background-color: #4CAF50;
 }
 
-#cell4 {
-	background-color: #ff0;
+
+
+#tijger, {
+	background-color:  #9370DB;
 }
 
-#cell5 {
-	background-color: #f80;
+
+
+
+#cheetah, {
+	background-color:  #333;
 }
 
-#cell6 {
-	background-color: #8f0;
+
+
+
+#leeuw {
+	background-color: #FFA07A;
 }
 
-#cell7 {
-	background-color: #08f;
+#tijger {
+	background-color: #FFD700;
 }
 
-#cell8 {
-	background-color: #f08;
+#hond {
+	background-color: #90EE90;
 }
 
-#cell9 {
-	background-color: #0ff;
+#kat {
+	background-color: #9370DB;
 }
 
-#cell10 {
-	background-color: #f0f;
+#haai {
+	background-color: #87CEEB;
 }
 
-#cell11 {
-	background-color: #ff8;
+#giraffe {
+	background-color: #FFB6C1;
 }
 
-#cell12 {
-	background-color: #8ff;
+#cheetah {
+	background-color: #FFA500;
 }
 
-#cell13 {
-	background-color: #888;
-	color: #fff;
+#jaguar {
+	background-color: #D2691E;
 }
 
-#cell14 {
-	background-color: #fff;
+#img1 {
+	background-color: #FFA07A;
 }
 
-#cell15 {
-	background-color: #000;
-	color: #fff;
+#img2 {
+	background-color: #FFD700;
 }
 
-#cell16 {
-	background-color: #ddd;
+#img3 {
+	background-color: #90EE90;
+}
+
+#img4 {
+	background-color: #9370DB;
+}
+
+#img5 {
+	background-color: #87CEEB;
+}
+
+#img6 {
+	background-color: #FFB6C1;
+}
+
+#img7 {
+	background-color: #FFA500;
+}
+
+#img8 {
+	background-color: #D2691E;
+}
+
+
+
+
+
+
+
+
+
+
+#leeuw, #kat, #hond, #haai, #giraffe, #tijger, #cheetah, #jaguar {
+	font-size: 24px;
+	padding: 20px;
 }
 
 img {
-	max-width: 100%;
+	width: 100%;
 	height: auto;
 }
